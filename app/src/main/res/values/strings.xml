@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button-counter-Neese</string>
+    <string name="Increment">Increment</string>
+    <string name="Decrement">Decrement</string>
+    <string name="Reset">Reset</string>
+    <string name="Count"></string>
+</resources>
